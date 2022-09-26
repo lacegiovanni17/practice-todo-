@@ -1,7 +1,7 @@
 # practice-todo-
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
-💻 This is a social media profile box made with HTML and CSS. 
+💻 This is a todo list site with HTML, CSS and Javascript. 
 🌍 Website:  https://lacegiovanni17.github.io/practice-todo-/
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
@@ -12,7 +12,7 @@
 ## Technologies Used
 * CSS
 * HTML
-
+* Javascript
 * GitHub
 
 ## Author
